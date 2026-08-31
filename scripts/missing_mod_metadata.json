@@ -3617,6 +3617,12 @@
     {
       "name": "Create: Trading Floor",
       "modId": "trading_floor",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
+    },
+    {
+      "name": "Create: Trading Floor",
+      "modId": "trading_floor",
       "source": "curseforge",
       "reason": "missing CURSEFORGE_API_KEY"
     },
@@ -4409,8 +4415,20 @@
     {
       "name": "Trimmed",
       "modId": "trimmed",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
+    },
+    {
+      "name": "Trimmed",
+      "modId": "trimmed",
       "source": "curseforge",
       "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "VanillaBackport",
+      "modId": "vanillabackport",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
     },
     {
       "name": "VanillaBackport",
@@ -4421,8 +4439,20 @@
     {
       "name": "VS Sable Hose Connectors",
       "modId": "vsfluidlink",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
+    },
+    {
+      "name": "VS Sable Hose Connectors",
+      "modId": "vsfluidlink",
       "source": "curseforge",
       "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "What Are They Up To",
+      "modId": "watut",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
     },
     {
       "name": "What Are They Up To",
@@ -4433,14 +4463,32 @@
     {
       "name": "Xaero Train Map",
       "modId": "xaerotrainmap",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
+    },
+    {
+      "name": "Xaero Train Map",
+      "modId": "xaerotrainmap",
       "source": "curseforge",
       "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Xaero's Minimap",
       "modId": "xaerominimap",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "modId": "xaerominimap",
       "source": "curseforge",
       "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Xaero's World Map",
+      "modId": "xaeroworldmap",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
     },
     {
       "name": "Xaero's World Map",
@@ -4452,13 +4500,19 @@
       "name": "Yet Another Memory Optimization (YAMO)",
       "modId": "yammo",
       "source": "modrinth",
-      "reason": "modrinth http error 404"
+      "reason": "modrinth http error 429"
     },
     {
       "name": "Yet Another Memory Optimization (YAMO)",
       "modId": "yammo",
       "source": "curseforge",
       "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "modId": "yet_another_config_lib_v3",
+      "source": "modrinth",
+      "reason": "modrinth http error 429"
     },
     {
       "name": "YetAnotherConfigLib",

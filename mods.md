@@ -21,7 +21,7 @@
 | Create: Enchantment Industry | 2.4.2 | N/A | [Click Here](https://modrinth.com/mod/create-enchantment-industry) | Offers more tools and methods to handle experience & enchantment in Create |
 | Create: Escalated | 1.3.1 | N/A | [Click Here](https://modrinth.com/mod/escalated) | Adds functional, aesthetic, and rotation-powered escalators to Create |
 | Create: Numismatics | 1.0.20+neoforge-mc1.21.1 | N/A | [Click Here](https://modrinth.com/mod/numismatics) | Economy and Capitalism |
-| Create: Trading Floor | 3.0.16 | N/A | [Click Here](https://modrinth.com/mod/create-trading-floor) | Adds the trading depot block, which can be used within create to automatically trade with villagers over the day |
+| Create: Trading Floor | 3.0.16 | N/A | N/A | Adds the trading depot block, which can be used within create to automatically trade with villagers over the day |
 
 ## Visuals and QOL (10+0)
 
@@ -283,12 +283,12 @@
 | Steel Armor Blocks Recipes: TFMG | 1.0.0 | N/A | N/A | [TODO: add purpose] |
 | Supplementaries | 1.21.1-3.8.3 | N/A | [Click Here](https://modrinth.com/mod/supplementaries) | [TODO: add purpose] |
 | Supplementaries Squared | 1.21-1.2.18 | N/A | N/A | [TODO: add purpose] |
-| Trimmed | 3.0.0 | N/A | [Click Here](https://modrinth.com/mod/trimmed) | [TODO: add purpose] |
-| VanillaBackport | 1.1.7.10 | N/A | [Click Here](https://modrinth.com/mod/vanillabackport) | [TODO: add purpose] |
-| VS Sable Hose Connectors | 0.1.8 | N/A | [Click Here](https://modrinth.com/mod/vs-hose-connectors) | [TODO: add purpose] |
-| What Are They Up To | 1.21.0-1.2.7 | N/A | [Click Here](https://modrinth.com/mod/what-are-they-up-to) | [TODO: add purpose] |
-| Xaero Train Map | 1.0.0 | N/A | [Click Here](https://modrinth.com/mod/xaero-train-map) | [TODO: add purpose] |
-| Xaero's Minimap | 26.4.2 | N/A | [Click Here](https://modrinth.com/mod/xaeros-minimap) | [TODO: add purpose] |
-| Xaero's World Map | 1.44.2 | N/A | [Click Here](https://modrinth.com/mod/xaeros-world-map) | [TODO: add purpose] |
+| Trimmed | 3.0.0 | N/A | N/A | [TODO: add purpose] |
+| VanillaBackport | 1.1.7.10 | N/A | N/A | [TODO: add purpose] |
+| VS Sable Hose Connectors | 0.1.8 | N/A | N/A | [TODO: add purpose] |
+| What Are They Up To | 1.21.0-1.2.7 | N/A | N/A | [TODO: add purpose] |
+| Xaero Train Map | 1.0.0 | N/A | N/A | [TODO: add purpose] |
+| Xaero's Minimap | 26.4.2 | N/A | N/A | [TODO: add purpose] |
+| Xaero's World Map | 1.44.2 | N/A | N/A | [TODO: add purpose] |
 | Yet Another Memory Optimization (YAMO) | 1.0.6 | N/A | N/A | [TODO: add purpose] |
-| YetAnotherConfigLib | 3.8.2+1.21.1-neoforge | N/A | [Click Here](https://modrinth.com/mod/yacl) | [TODO: add purpose] |
+| YetAnotherConfigLib | 3.8.2+1.21.1-neoforge | N/A | N/A | [TODO: add purpose] |
