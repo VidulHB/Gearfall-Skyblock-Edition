@@ -38,3 +38,6 @@ dynamic-data-pack-cache/**
 servers.dat
 servers.dat_old
 .nl_password
+/libraries/
+/versions/
+/.idea/
