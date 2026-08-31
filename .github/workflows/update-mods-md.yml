@@ -1,0 +1,122 @@
+name: Update mods.md from modlist
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - config/crash_assistant/modlist.json
+      - scripts/mods_metadata.json
+      - scripts/generate_mods_md.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-mods-md:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate mods markdown
+        env:
+          CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
+        run: |
+          python scripts/generate_mods_md.py
+
+      - name: Commit and push if changed
+        id: commit
+        run: |
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          if git diff --quiet -- mods.md scripts/missing_mod_metadata.json scripts/missing_mod_metadata.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mods.md scripts/missing_mod_metadata.json scripts/missing_mod_metadata.md
+          git commit -m "chore: regenerate mods.md from modlist.json"
+
+          for attempt in 1 2 3; do
+            git fetch origin "$BRANCH"
+            git rebase "origin/$BRANCH"
+
+            if git push origin "HEAD:$BRANCH"; then
+              break
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              echo "Push failed after 3 attempts due to remote updates."
+              exit 1
+            fi
+          done
+
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update metadata review issue
+        uses: actions/github-script@v7
+        env:
+          MISSING_MD_PATH: scripts/missing_mod_metadata.md
+        with:
+          script: |
+            const fs = require('fs');
+            const issueTitle = 'Mods metadata review: missing purpose/category/link info';
+            const body = fs.readFileSync(process.env.MISSING_MD_PATH, 'utf8');
+            const hasMissing = !body.includes('No missing metadata or link lookup failures were detected.');
+
+            const { owner, repo } = context.repo;
+            const existing = await github.paginate(github.rest.issues.listForRepo, {
+              owner,
+              repo,
+              state: 'open',
+              creator: 'github-actions[bot]',
+              per_page: 100,
+            });
+
+            const target = existing.find((i) => i.title === issueTitle);
+
+            if (!hasMissing) {
+              if (target) {
+                await github.rest.issues.update({
+                  owner,
+                  repo,
+                  issue_number: target.number,
+                  state: 'closed',
+                });
+              }
+              core.info('No missing metadata.');
+              return;
+            }
+
+            if (target) {
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: target.number,
+                body,
+              });
+              core.info(`Updated issue #${target.number}`);
+            } else {
+              const created = await github.rest.issues.create({
+                owner,
+                repo,
+                title: issueTitle,
+                body,
+                labels: ['documentation'],
+              });
+              core.info(`Created issue #${created.data.number}`);
+            }
