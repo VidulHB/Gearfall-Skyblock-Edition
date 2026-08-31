@@ -2895,64 +2895,10 @@
   ],
   "failedLinkLookups": [
     {
-      "name": "Accessories",
-      "modId": "accessories",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "AchievementOptimizer",
-      "modId": "achiopt",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "AE2 JEI Integration",
       "modId": "ae2jeiintegration",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "AE2 JEI Integration",
-      "modId": "ae2jeiintegration",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "AE2WTLib",
-      "modId": "ae2wtlib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Aeronautics Addition",
-      "modId": "aero_addition",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Aeronautics Claims",
-      "modId": "aeroclaims",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Aeronautics: Winds & Weather",
-      "modId": "aeronauticswinds",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "AI-Improvements",
-      "modId": "aiimprovements",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Alex's Caves",
-      "modId": "alexscaves",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "All The Leaks",
@@ -2961,196 +2907,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "All The Leaks",
-      "modId": "alltheleaks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "AlmostUnified",
-      "modId": "almostunified",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Amendments",
-      "modId": "amendments",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Animal Pen",
-      "modId": "animal_pen",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "AppleSkin",
-      "modId": "appleskin",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Applied Energistics 2",
-      "modId": "ae2",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Architectury",
-      "modId": "architectury",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Artifacts",
-      "modId": "artifacts",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Athena",
-      "modId": "athena",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "BadOptimizations",
-      "modId": "badoptimizations",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "BaguetteLib",
-      "modId": "baguettelib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Barbeque's Delight",
       "modId": "barbequesdelight",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Barbeque's Delight",
-      "modId": "barbequesdelight",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Better Advanced Tooltips",
-      "modId": "betteradvancedtooltips",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Better Advancements",
-      "modId": "betteradvancements",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "BetterF3",
-      "modId": "betterf3",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Bookshelf",
-      "modId": "bookshelf",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Camera Mod",
-      "modId": "camera",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Carry On",
-      "modId": "carryon",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "CC: Tweaked",
-      "modId": "computercraft",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "CC:C Bridge",
-      "modId": "cccbridge",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "CC:CBC",
-      "modId": "cc_cbc",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Certain Questing Additions",
-      "modId": "certain_questing_additions",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Chefs Delight",
-      "modId": "chefsdelight",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Chemica",
-      "modId": "chemica",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Chipped",
-      "modId": "chipped",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Chloride",
-      "modId": "chloride",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Citadel",
-      "modId": "citadel",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Climbable Ropes for Create Aeronautics",
-      "modId": "climbable_ropes",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Cloth Config v15 API",
-      "modId": "cloth_config",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Clumps",
-      "modId": "clumps",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Controlling",
-      "modId": "controlling",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "CoroUtil",
@@ -3159,58 +2919,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "CoroUtil",
-      "modId": "coroutil",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Corpse",
       "modId": "corpse",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Corpse",
-      "modId": "corpse",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Corpse Curios Compatibility",
-      "modId": "corpsecurioscompat",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "CosmeticArmorReworked",
-      "modId": "cosmeticarmorreworked",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "cosmeticcorpsecompat",
-      "modId": "cosmeticcorpsecompat",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Crash Assistant",
-      "modId": "crash_assistant",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create",
-      "modId": "create",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aeronautics",
-      "modId": "aeronautics_bundled",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Create Aeronautics Curios Compat",
@@ -3219,76 +2931,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Create Aeronautics Curios Compat",
-      "modId": "aeronautics_curios_compat",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Create Aeronautics Player Tracker",
       "modId": "playertrackingcompass",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Create Aeronautics Player Tracker",
-      "modId": "playertrackingcompass",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aeronautics: Delivery Required",
-      "modId": "createdeliveryrequired",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aeronautics: Encased Fluid Pipes",
-      "modId": "aeroencasedpipe",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aeronautics: Portable Engine Liquid Fuel",
-      "modId": "portable_engine_liquid_fuel",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aeronautics: Toolgun",
-      "modId": "create_aeronautics_toolgun",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aeronautics: Transmission & Linkage",
-      "modId": "aeronautics_utility_objects",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Aquatic Ambitions",
-      "modId": "create_aquatic_ambitions",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Big Cannons",
-      "modId": "createbigcannons",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Bits 'n' Bobs",
-      "modId": "bits_n_bobs",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Cardan Shafts",
-      "modId": "sable_kardanwelle",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Create Compact Gearbox",
@@ -3297,136 +2943,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Create Compact Gearbox",
-      "modId": "compactgearbox",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Compact Transmission",
-      "modId": "create_compact_transmission",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Confectionery",
-      "modId": "create_confectionery",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Crafts & Additions",
-      "modId": "createaddition",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Deco",
-      "modId": "createdeco",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Encased",
-      "modId": "createcasing",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Gadgets & Gizmos",
-      "modId": "createthrusters",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Hypertube",
-      "modId": "create_hypertube",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Let The Adventure Begin",
-      "modId": "create_ltab",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Mechanical Extruder",
-      "modId": "create_mechanical_extruder",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create More: Linked Remote",
-      "modId": "cmlinkedremote",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create More: Package Couriers",
-      "modId": "cmpackagecouriers",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Propulsion: Simulated",
-      "modId": "createpropulsion",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Shuffle Filter",
-      "modId": "createshufflefilter",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Stuff 'N Additions",
-      "modId": "create_sa",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Tracks+",
-      "modId": "tracks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create Tweaked Controllers",
-      "modId": "create_tweaked_controllers",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Addon Compatibility",
-      "modId": "createaddoncompatibility",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Create: Aeroworks",
       "modId": "aeroworks",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Create: Aeroworks",
-      "modId": "aeroworks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Applied Kinetics",
-      "modId": "createappliedkinetics",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Avionics",
-      "modId": "create_avionics",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Create: Broken Bad",
@@ -3435,100 +2955,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Create: Broken Bad",
-      "modId": "createbb",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Cardboarded Conveynience",
-      "modId": "cardboarded_conveynience",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Central Kitchen",
-      "modId": "create_central_kitchen",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Colorful Catalysts",
-      "modId": "colorful_catalysts",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Connected",
-      "modId": "create_connected",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Copycats+",
-      "modId": "copycats",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Deep Dark",
-      "modId": "create_deep_dark",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Dragons Plus",
-      "modId": "create_dragons_plus",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Dreams n' Desires",
-      "modId": "dndesires",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Enchantable Machinery",
-      "modId": "createenchantablemachinery",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Enchantment Industry",
-      "modId": "create_enchantment_industry",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Ender Gateway",
-      "modId": "createendergateway",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Escalated",
-      "modId": "escalated",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Extra Gauges",
-      "modId": "extra_gauges",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Create: Fluid",
       "modId": "fluid",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Create: Fluid",
-      "modId": "fluid",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Create: Gravitite Adventures",
@@ -3537,178 +2967,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Create: Gravitite Adventures",
-      "modId": "create_gravitite_adventures",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Interiors",
-      "modId": "interiors",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Mobile Packages",
-      "modId": "create_mobile_packages",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: New Age",
-      "modId": "create_new_age",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Numismatics",
-      "modId": "numismatics",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Pattern Schematics",
-      "modId": "create_pattern_schematics",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Radars",
-      "modId": "create_radar",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Repackaged",
-      "modId": "repackaged",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Smart Bounds",
-      "modId": "smart_bounds",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: The Factory Must Grow",
-      "modId": "tfmg",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "create: things and misc",
-      "modId": "create_things_and_misc",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Threaded Trains",
-      "modId": "createthreadedtrains",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Tradeworks",
-      "modId": "tradeworks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Trading Floor",
-      "modId": "trading_floor",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Transmission",
-      "modId": "createtransmission",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create: Winery",
-      "modId": "create_winery",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Create:Lazy Tick",
-      "modId": "createlazytick",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "create_bic_bit-1.0.2C.jar",
-      "modId": "",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "CullLeaves",
-      "modId": "cullleaves",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Curios API",
-      "modId": "curios",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Customizable Player Models",
-      "modId": "cpm",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Deployer",
-      "modId": "deployer",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Drippy Loading Screen",
-      "modId": "drippyloadingscreen",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
-      "modId": "",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Drive By Wire",
       "modId": "drivebywire",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Drive By Wire",
-      "modId": "drivebywire",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Dynamic FPS",
-      "modId": "dynamic_fps",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "EMI",
-      "modId": "emi",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "EMI Loot",
-      "modId": "emi_loot",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "EMI Professions (EMIP)",
@@ -3717,76 +2979,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "EMI Professions (EMIP)",
-      "modId": "emiprofessions",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "EMI++",
-      "modId": "emixx",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "EnchantmentDescriptions",
-      "modId": "enchdesc",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Enderscape",
-      "modId": "enderscape",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "EnhancedTooltips",
-      "modId": "enhancedtooltips",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "EntityCulling",
-      "modId": "entityculling",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FancyMenu",
-      "modId": "fancymenu",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Farmer's Delight",
-      "modId": "farmersdelight",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Fast Suite",
       "modId": "fastsuite",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Fast Suite",
-      "modId": "fastsuite",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Ferrite Core",
-      "modId": "ferritecore",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Flerovium",
-      "modId": "flerovium",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Framework",
@@ -3795,148 +2991,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Framework",
-      "modId": "framework",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FTB Filter System",
-      "modId": "ftbfiltersystem",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FTB Library",
-      "modId": "ftblibrary",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FTB Quests",
-      "modId": "ftbquests",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FTB Teams",
-      "modId": "ftbteams",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FTB XMod Compat",
-      "modId": "ftbxmodcompat",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "FTBQuestsOptimizer",
-      "modId": "ftbqopt",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Fzzy Config",
-      "modId": "fzzy_config",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "GeckoLib 4",
-      "modId": "geckolib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Gnetum",
-      "modId": "gnetum",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "GuideME",
-      "modId": "guideme",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "ImmediatelyFast",
-      "modId": "immediatelyfast",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Immersive Aircraft",
-      "modId": "immersive_aircraft",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Immersive Optimization",
-      "modId": "immersive_optimization",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Immersive Paintings",
-      "modId": "immersive_paintings",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Ixeris",
-      "modId": "ixeris_dummy",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Jade",
-      "modId": "jade",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Jade Addons",
-      "modId": "jadeaddons",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Jade Sable Compat",
-      "modId": "sablejade",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Just Enough Items",
-      "modId": "jei",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Konkrete",
-      "modId": "konkrete",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "kotlinforforge-5.12.0-all.jar",
       "modId": "",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "kotlinforforge-5.12.0-all.jar",
-      "modId": "",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Krypton FNP",
-      "modId": "krypton_fnp",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "KubeJS",
@@ -3945,94 +3003,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "KubeJS",
-      "modId": "kubejs",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "KubeJS Create",
       "modId": "kubejs_create",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "KubeJS Create",
-      "modId": "kubejs_create",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "L_Ender's Cataclysm 1.21.1",
-      "modId": "cataclysm",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "LambDynamicLights",
-      "modId": "lambdynlights",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "lionfishapi",
-      "modId": "lionfishapi",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Lithium",
-      "modId": "lithium",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Lithostitched",
-      "modId": "lithostitched",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Lootr",
-      "modId": "lootr",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "LowDragLib2",
-      "modId": "ldlib2",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Man of Many Planes",
-      "modId": "man_of_many_planes",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Mechanicals Lib",
-      "modId": "mechanicals",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Melody",
-      "modId": "melody",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "MidnightLib",
-      "modId": "midnightlib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "ModernFix",
-      "modId": "modernfix",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Molten Vents",
@@ -4041,106 +3015,16 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Molten Vents",
-      "modId": "molten_vents",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Moonlight Lib",
-      "modId": "moonlight",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "More Culling",
-      "modId": "moreculling",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Mouse Tweaks",
-      "modId": "mousetweaks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "MrCrayfish's Furniture Mod: Refurbished",
       "modId": "refurbished_furniture",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "MrCrayfish's Furniture Mod: Refurbished",
-      "modId": "refurbished_furniture",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Nature's Compass",
-      "modId": "naturescompass",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Nedologin",
       "modId": "nedologin",
       "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Noisium",
-      "modId": "noisium",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Northstar Redux",
-      "modId": "northstar",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Not Enough Crashes",
-      "modId": "notenoughcrashes",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Not Enough Recipe Book",
-      "modId": "nerb",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Nowheel",
-      "modId": "nowheel",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "OctoLib",
-      "modId": "octolib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Open Parties and Claims",
-      "modId": "openpartiesandclaims",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "oωo",
-      "modId": "owo",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "PackagersPSIC",
-      "modId": "packagerspsic",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
+      "reason": "curseforge fingerprint had no exact match"
     },
     {
       "name": "Performance Tweaks",
@@ -4149,148 +3033,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Performance Tweaks",
-      "modId": "perf_tweaks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Placebo",
-      "modId": "placebo",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Platform",
-      "modId": "platform",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Player Animator",
-      "modId": "playeranimator",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "PneumaticCraft: Repressurized",
-      "modId": "pneumaticcraft",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Polymorph",
-      "modId": "polymorph",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Polymorphic Energistics",
-      "modId": "polyeng",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "PonderJS",
-      "modId": "ponderjs",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "PrickleMC",
-      "modId": "prickle",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "ProbeJS",
-      "modId": "probejs",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Reese's Sodium Options",
-      "modId": "reeses_sodium_options",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Reintegrated Chipped",
-      "modId": "reintegrated_chipped",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Resourceful Lib",
-      "modId": "resourcefullib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Rhino",
-      "modId": "rhino",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Ritchie's Projectile Library",
-      "modId": "ritchiesprojectilelib",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Sable",
-      "modId": "sable",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Sable Cleanup Tools",
-      "modId": "sablecleanup",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Sable Photomancy",
-      "modId": "sable_schematic_api",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Sable Xaero Bridge",
       "modId": "sable_xaero_bridge",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Sable Xaero Bridge",
-      "modId": "sable_xaero_bridge",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Sable: Physics Compat",
-      "modId": "sablephysicscompat",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Schematician",
-      "modId": "schematician",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Searchables",
-      "modId": "searchables",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "SimpleHats",
-      "modId": "simplehats",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Sinfyukes Mod",
@@ -4299,40 +3045,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Sinfyukes Mod",
-      "modId": "sinfyukesmod",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Sodium",
-      "modId": "sodium",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Sodium Extra",
-      "modId": "sodium_extra",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Some Assembly Required",
-      "modId": "someassemblyrequired",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Sophisticated Backpacks",
       "modId": "sophisticatedbackpacks",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Sophisticated Backpacks",
-      "modId": "sophisticatedbackpacks",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Sophisticated Backpacks Create Integration",
@@ -4341,22 +3057,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Sophisticated Backpacks Create Integration",
-      "modId": "sophisticatedbackpackscreateintegration",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Sophisticated Core",
       "modId": "sophisticatedcore",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Sophisticated Core",
-      "modId": "sophisticatedcore",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Sophisticated Inventory Interactions",
@@ -4365,34 +3069,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Sophisticated Inventory Interactions",
-      "modId": "sophisticatedinventoryinteractions",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Steel armor blocks",
-      "modId": "s_a_b",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Steel Armor Blocks Recipes: TFMG",
       "modId": "sab_tfmg_compat",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Steel Armor Blocks Recipes: TFMG",
-      "modId": "sab_tfmg_compat",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Supplementaries",
-      "modId": "supplementaries",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     },
     {
       "name": "Supplementaries Squared",
@@ -4401,70 +3081,10 @@
       "reason": "modrinth http error 404"
     },
     {
-      "name": "Supplementaries Squared",
-      "modId": "suppsquared",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Trimmed",
-      "modId": "trimmed",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "VanillaBackport",
-      "modId": "vanillabackport",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "VS Sable Hose Connectors",
-      "modId": "vsfluidlink",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "What Are They Up To",
-      "modId": "watut",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Xaero Train Map",
-      "modId": "xaerotrainmap",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Xaero's Minimap",
-      "modId": "xaerominimap",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "Xaero's World Map",
-      "modId": "xaeroworldmap",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
       "name": "Yet Another Memory Optimization (YAMO)",
       "modId": "yammo",
       "source": "modrinth",
       "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Yet Another Memory Optimization (YAMO)",
-      "modId": "yammo",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
-    },
-    {
-      "name": "YetAnotherConfigLib",
-      "modId": "yet_another_config_lib_v3",
-      "source": "curseforge",
-      "reason": "missing CURSEFORGE_API_KEY"
     }
   ]
 }
