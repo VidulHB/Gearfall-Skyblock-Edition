@@ -1,0 +1,291 @@
+{
+  "mods": {
+    "Create Mod": {
+      "section": "technology_core",
+      "purpose": "Do I need to say anything?"
+    },
+    "Create Mechanical Extruder": {
+      "section": "technology_core",
+      "purpose": "A performance-friendly alternative to world interaction recipes like cobble gen, etc."
+    },
+    "Create: The Factory Must Grow": {
+      "section": "technology_core",
+      "purpose": "Makes create a bit harder, and is a core part of Gearfall"
+    },
+    "Create: Northstar - Redux": {
+      "section": "technology_core",
+      "purpose": "Space exploration!"
+    },
+    "Chemica": {
+      "section": "technology_core",
+      "purpose": "TFMG addon that adds real world chemistry"
+    },
+    "Create Confectionery": {
+      "section": "create_addons",
+      "purpose": "Chocolates!"
+    },
+    "Create Encased": {
+      "section": "create_addons",
+      "purpose": "Allows all casings to be used on shafts, cogwheels and pipes"
+    },
+    "Create More: Package Couriers": {
+      "section": "create_addons",
+      "purpose": "Adds a cardboard plane for long-range package logistics that can also cross dimensions"
+    },
+    "Create: Enchantment Industry": {
+      "section": "create_addons",
+      "purpose": "Offers more tools and methods to handle experience & enchantment in Create"
+    },
+    "Create: Escalated": {
+      "section": "create_addons",
+      "purpose": "Adds functional, aesthetic, and rotation-powered escalators to Create"
+    },
+    "Create: Hypertubes": {
+      "section": "create_addons",
+      "purpose": "Adds Satisfactory Hypertubes to Minecraft"
+    },
+    "Create: Numismatics": {
+      "section": "create_addons",
+      "purpose": "Economy and Capitalism"
+    },
+    "Create: Trading Floor": {
+      "section": "create_addons",
+      "purpose": "Adds the trading depot block, which can be used within create to automatically trade with villagers over the day"
+    },
+    "Create: Mob Spawners": {
+      "section": "create_addons",
+      "purpose": "Adds a tool that can catch mobs, which can then be placed into a spawner"
+    },
+    "Mouse Tweaks": {
+      "section": "qol",
+      "purpose": "Adds a few mouse shortcuts, which should actually be in the base game :/"
+    },
+    "Corpse": {
+      "section": "qol",
+      "purpose": "A corpse will spawn upon your death containing all items that you had in your inventory"
+    },
+    "Just Enough Items": {
+      "section": "qol",
+      "purpose": "A pretty good recipe viewer (only exists for mod compaitability with EMI)"
+    },
+    "EMI": {
+      "section": "qol",
+      "purpose": "JEI with better UI"
+    },
+    "EMI++": {
+      "section": "qol",
+      "purpose": "Creative Mode Tabs, Collapsible Item Groups, Villager Trades"
+    },
+    "EMI Loot": {
+      "section": "qol",
+      "purpose": "Displays loot tables for chests, blocks, and mobs"
+    },
+    "Jade 🔍": {
+      "section": "qol",
+      "purpose": "Shows info about the block at which the player is looking"
+    },
+    "Enchantment Descriptions": {
+      "section": "qol",
+      "purpose": "Clarify enchantments by adding descriptions of their effects to enchanted item tooltips"
+    },
+    "Yukami's Sophisticated Backpack Tab": {
+      "section": "qol",
+      "purpose": "Adds backpack tab to your inventory and other GUI for easier access"
+    },
+    "AppleSkin": {
+      "section": "visual_mods",
+      "purpose": "Adds more features to player food bar"
+    },
+    "Advancement Plaques": {
+      "section": "visual_mods",
+      "purpose": "Replace those boring, anti-climactic advancement popups with fancy glowing plaques"
+    },
+    "Blur+": {
+      "section": "visual_mods",
+      "purpose": "Blurs the rest of the game when a gui is open"
+    },
+    "Cosmetic Armor Reworked": {
+      "section": "visual_mods",
+      "purpose": "Allows you to wear two sets of armor, one for display, one for function",
+      "forceNoModrinth": true
+    },
+    "Motschen's Better Leaves": {
+      "section": "visual_resource_packs",
+      "purpose": "Bushy leaves without any performance drop!"
+    },
+    "Create Style Interface": {
+      "section": "visual_resource_packs",
+      "purpose": "Make gui create styled (embedded directly using KubeJS with permission from pack author)"
+    },
+    "Createful Plaques": {
+      "section": "visual_resource_packs",
+      "purpose": "Replaces the default look of Advancement Plaques Mod with themed Create plaques",
+      "forceNoModrinth": true
+    },
+    "Create Style Sophisticated Backpacks": {
+      "section": "visual_resource_packs",
+      "purpose": "A Resource Pack that makes Sophisticated Backpacks look like one of Create mod's items"
+    },
+    "Create Immersive Aircrafts": {
+      "section": "visual_resource_packs",
+      "purpose": "Changes the textures (and some names in US language) of crafting items, upgrade items and vehicles of the Immersive Aircraft mod to look more like they belong in the Create Mod"
+    },
+    "Sophisticated Backpacks": {
+      "section": "exploration",
+      "purpose": "Adds upgradable and highly customizable backpacks designed for convenient portable storage"
+    },
+    "Immersive Aircraft": {
+      "section": "exploration",
+      "purpose": "Adds a bunch of rustic aircraft to travel, transport, and explore"
+    },
+    "Create: Copycats+": {
+      "section": "building",
+      "purpose": "All the copycats you've ever wanted, combined into a single mod!"
+    },
+    "KubeJS": {
+      "section": "utility",
+      "purpose": "Tell me 1 good modpack made without this mod"
+    },
+    "Molten Vents Worldgen": {
+      "section": "utility",
+      "purpose": "Adds vent feature from molten vents"
+    },
+    "FTB Quests": {
+      "section": "utility",
+      "purpose": "Well, Quests!!",
+      "forceNoModrinth": true
+    },
+    "FTB Filter System": {
+      "section": "utility",
+      "purpose": "Adds a tag filter system for FTB Quests",
+      "forceNoModrinth": true
+    },
+    "FTB Teams": {
+      "section": "utility",
+      "purpose": "Ability to create player teams for FTB Quests",
+      "forceNoModrinth": true
+    },
+    "Sodium": {
+      "section": "performance",
+      "purpose": "The best performance mod (for 1.21.1 Neo, cause Vulkan also exists but for Fabric :/ )"
+    },
+    "Entity Culling": {
+      "section": "performance",
+      "purpose": "Multithreaded Path-Tracing, Multithreaded Path-Tracing, Entity Tick Optimization"
+    },
+    "Cull Leaves": {
+      "section": "performance",
+      "purpose": "Ensures no performance drops for bushy leaves :)"
+    },
+    "Dynamic FPS": {
+      "section": "performance",
+      "purpose": "Reduce resource usage while Minecraft is in the background, idle, or on battery"
+    },
+    "FTB Quests Optimizer": {
+      "section": "performance",
+      "purpose": "Improves performance of FTB Quests"
+    },
+    "Lithium": {
+      "section": "performance",
+      "purpose": "Improves several systems (game physics, mob AI, block ticking, etc) without changing any behaviour"
+    },
+    "ModernFix": {
+      "section": "performance",
+      "purpose": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions"
+    },
+    "FerriteCore": {
+      "section": "performance",
+      "purpose": "Reduces the memory usage of Minecraft in a few different ways"
+    },
+    "Architectury API": {
+      "section": "library",
+      "requiredBy": "Every FTB Mod"
+    },
+    "Curios API": {
+      "section": "library",
+      "requiredBy": "Optional dependency for some mods"
+    },
+    "Bookshelf": {
+      "section": "library",
+      "requiredBy": "Enchantment Descriptions"
+    },
+    "Prickle": {
+      "section": "library",
+      "requiredBy": "Enchantment Descriptions"
+    },
+    "Rhino": {
+      "section": "library",
+      "requiredBy": "KubeJS"
+    },
+    "Create: Dragons Plus": {
+      "section": "library",
+      "requiredBy": "Create: Dragons Plus"
+    },
+    "Create: Packagers PSI Compat": {
+      "section": "library",
+      "requiredBy": "Allows Create mod packagers to interact with Portable Storage interfaces"
+    },
+    "Mechanicals Lib": {
+      "section": "library",
+      "requiredBy": "Create Mechanical Extruder"
+    },
+    "FTB Library": {
+      "section": "library",
+      "requiredBy": "Every FTB Mod",
+      "forceNoModrinth": true
+    },
+    "FTB XMod Compat": {
+      "section": "library",
+      "requiredBy": "Compatibility of FTB Quests with KubeJS and JEI",
+      "forceNoModrinth": true
+    },
+    "Jade Addons": {
+      "section": "library",
+      "requiredBy": "Compatibility of Jade with other mods"
+    },
+    "KubeJS Create": {
+      "section": "library",
+      "requiredBy": "Compatibility of KubeJS with Create Mod"
+    },
+    "Kotlin for Forge": {
+      "section": "library",
+      "requiredBy": "EMI++"
+    },
+    "MidnightLib": {
+      "section": "library",
+      "requiredBy": "Blur+"
+    },
+    "GeckoLib": {
+      "section": "library",
+      "requiredBy": "Create: Northstar - Redux"
+    },
+    "Sophisticated Backpacks Create Integration": {
+      "section": "library",
+      "requiredBy": "Compatibility of Create with Sophisticated Backpacks"
+    },
+    "Sophisticated Core": {
+      "section": "library",
+      "requiredBy": "Sophisticated Backpacks"
+    },
+    "Corpse x Cosmetic Armor Reworked Compat": {
+      "section": "library",
+      "requiredBy": "Compaitability between Corpse and Cosmetic Armour Reworked"
+    },
+    "Corpse x Curios API Compat": {
+      "section": "library",
+      "requiredBy": "Compaitable of Corpse with Curios API"
+    },
+    "BaguetteLib": {
+      "section": "library",
+      "requiredBy": "Corpse x Curios API Compat"
+    },
+    "Iceberg": {
+      "section": "library",
+      "requiredBy": "Advancement Plaques"
+    },
+    "ProbeJS": {
+      "section": "library",
+      "purpose": "Makes modpack development easier"
+    }
+  }
+}

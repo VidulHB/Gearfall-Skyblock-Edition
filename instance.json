@@ -1,0 +1,34 @@
+{
+  "name": "Gearfall Skyblock edition",
+  "author": "Ashy",
+  "description": "",
+  "version": "neoforge-21.1.248",
+  "edition": "java",
+  "runtime": {
+    "minecraft": "1.21.1",
+    "forge": "",
+    "neoForged": "21.1.248",
+    "fabricLoader": "",
+    "quiltLoader": "",
+    "optifine": "",
+    "labyMod": ""
+  },
+  "java": "/run/media/ashy/Shared/.minecraftx/jre/java-runtime-delta/bin/java",
+  "resolution": {
+    "fullscreen": true
+  },
+  "minMemory": 256,
+  "maxMemory": 8192,
+  "assignMemory": false,
+  "env": {},
+  "url": "",
+  "icon": "",
+  "fileApi": "",
+  "server": null,
+  "hideLauncher": false,
+  "lastAccessDate": 1788171240024,
+  "lastPlayedDate": 1787909677802,
+  "playtime": 33364817,
+  "creationDate": 1787106548162,
+  "path": "/run/media/ashy/Shared/.minecraftx/instances/Gearfall-Skyblock-Edition"
+}

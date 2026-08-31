@@ -1,0 +1,35 @@
+#Levitite core contraption limits
+[levitite_core]
+	#Maximum blocks scanned as part of a Levitite contraption
+	# Default: 4096
+	# Range: 1 ~ 65536
+	maxSupportedBlocks = 4096
+
+#Levitite gyroscope stabilization
+[gyroscope]
+	#Maximum angular stabilization impulse applied per tick
+	# Default: 50.0
+	# Range: 0.1 ~ 1000.0
+	maxImpulse = 50.0
+
+#Thruster thrust coefficients for flight controller and direct propulsion
+[thrusters]
+	#Blaze thruster thrust coefficient
+	# Default: 200.0
+	# Range: 0.0 ~ 10000.0
+	blazeThrustCoefficient = 200.0
+	#Ender thruster thrust coefficient
+	# Default: 100.0
+	# Range: 0.0 ~ 10000.0
+	enderThrustCoefficient = 100.0
+	#Steam thruster thrust coefficient
+	# Default: 100.0
+	# Range: 0.0 ~ 10000.0
+	steamThrustCoefficient = 100.0
+
+#Airframe ballast mass limits
+[ballast]
+	#Maximum ballast mass in KPG (shown on the block face)
+	# Default: 256
+	# Range: 1 ~ 4096
+	maxMassKpg = 256

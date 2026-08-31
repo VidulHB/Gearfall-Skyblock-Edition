@@ -1,0 +1,44 @@
+Logging started at 2026-08-28T09:34:38.200148889Z
+[authlib-injector] [INFO] Version: 1.2.8
+[authlib-injector] [INFO] Authentication server: http://localhost:25555/yggdrasil
+[authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
+[authlib-injector] [DEBUG] Metadata: {"meta":{"implementationName":"xmcl-offline-server","implementationVersion":"0.0.1","serverName":"X Minecraft Launcher Offline Server"},"skinDomains":["localhost"],"signaturePublickey":"-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA0IkXN4USVBJvzrA3vi8y\nANUEUh9PMmPSWwFS5JccwlDZvw5ymMPuB8S69d6p4I8Ij6lkQkg8izTr3njJ4Z5k\nelDH+zClzv/LuYnEvUzaA0aGwHoH4sDUeUm34bK44By/6/ZoImKfDJmjfN/0lEOQ\nwZJL1vtDNAseSkZRPxUgBydhVqNBX9SYSfl2M5CBz8QHRe8hCI3QAMaFfqDu3uTJ\n0lPJ1HZRCTXHAMgiB2ArdgtU7rx1emga/o8Dx3LU/lV+FuKM94xaRFSreMZWluz1\nEjGcsC6je1Ah89aO0jYIHlOxzc1LB2uZaWryBaZ86uxL7EA7qyZG+mV6Y0sq7lSm\nUOYQiPInkHfEYrj+VA2gLZPP7mlNv8Xlo5cDvEaQL5Z8vOoB4xi8cY8vXSmAOR5g\neNtkm0NXT5GbZgP1NkkgFhnE4NUrjO44TzjC5enI9wfe0pOZY0k4bHY6crQwL9Rc\ntLSHz321FnYF85+yPZWU3DhsGnmfGV9rJJ2h/Fr3k85iD/0ohyWDneZECOsP2EKH\n6+L5JEcnejfvQW5S2s0M50np86Pu5gZ+c1pWTWomv5LgwFvARDRu1uFICh1RiCsv\nx6Ww85HYoQ8dJMiVIDMLe4+Zzext+08u2dM86/Mwpj/1yBzGTBw2t8y/2j8OWYi9\nh57uqbTpmpcI8dftnJdl3osCAwEAAQ==\n-----END PUBLIC KEY-----"}
+[authlib-injector] [DEBUG] Parsed metadata: APIMetadata [apiRoot=http://localhost:25555/yggdrasil/, skinDomains=[localhost], decodedPublickey=Optional[Sun RSA public key, 4096 bits
+  params: null
+  modulus: 850750658429328995873021749036424977503209800969541107153440944091941194252754236666978962155306559212673167388759833070333979769424137013427568030985701863201309748425704967406828525003672923960784702845474429622914567897249529317481712840932694352987630755714249560084131572595063403377615713594024315807279880947668690524783921171786311620276198672777699329900088713917759951400137535916682491949068121116841402699927769208203189466195773607865214258822923614995644111093630050473163803969095954048454972519943466020932050515618400298671852762729734411778819704554559039838975667702376244115067880688371368731611153509393418925962566300475188572224002069582793939465082380977715685702541856219295061830740555839132618930925653676580558174754574723927596075716117097432561414095268571322414911277546697415384572869094655732343649189515648644551311852732096837491340263230436055757299253875146147240186184600278505679756586357717969220521116989822538722383426527664684602683788207131991715038825306034944354614850746433253571150039465230998787159893612718064243521683412243428629945591514515398731715533076361874210940207991125200933857287246511146025712897638017993878595758115188057638183869219784676040940371379123177676574416523
+  public exponent: 65537], meta={implementationName=xmcl-offline-server, implementationVersion=0.0.1, serverName=X Minecraft Launcher Offline Server}]
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [DEBUG] Original main arguments: --version neoforge-21.1.248 --gameDir /run/media/ashy/Shared/.minecraftx/instances/Gearfall Dev --assetsDir /run/media/ashy/Shared/.minecraftx/assets --uuid 68af5072-46a5-387f-ac5e-a6b3c47d6c3f --username Ashy --assetIndex 818f68d092986c6933366762f435889884c36a52 --accessToken 189c6120f6e2486091a44d8a6b3c2d28 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType release --fullscreen
+[authlib-injector] [DEBUG] Version series detected: 818f68d092986c6933366762f435889884c36a52
+[authlib-injector] [DEBUG] Setting versionType to server name: X Minecraft Launcher Offline Server
+[authlib-injector] [DEBUG] Transformed main arguments: --version neoforge-21.1.248 --gameDir /run/media/ashy/Shared/.minecraftx/instances/Gearfall Dev --assetsDir /run/media/ashy/Shared/.minecraftx/assets --uuid 68af5072-46a5-387f-ac5e-a6b3c47d6c3f --username Ashy --assetIndex 818f68d092986c6933366762f435889884c36a52 --accessToken 189c6120f6e2486091a44d8a6b3c2d28 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType X Minecraft Launcher Offline Server --fullscreen
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.properties.Property] with [Yggdrasil Public Key Transformer]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService] with [Authlib Log Interceptor]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.minecraft.UserApiService] with [Authlib Log Interceptor]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [INFO] Registered log handler on cpw.mods.cl.ModuleClassLoader@5fa07e12
+[authlib-injector] [INFO] Httpd is running on port 39949
+[authlib-injector] [DEBUG] Transformed url [https://sessionserver.mojang.com] to [http://127.0.0.1:39949/https/sessionserver.mojang.com]
+[authlib-injector] [DEBUG] Transformed url [https://sessionserver.mojang.com] to [http://127.0.0.1:39949/https/sessionserver.mojang.com]
+[authlib-injector] [DEBUG] Transformed url [https://api.minecraftservices.com] to [http://127.0.0.1:39949/https/api.minecraftservices.com]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilEnvironment] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo] with [Yggdrasil Public Key Transformer]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [DEBUG] Request to [/https/api.minecraftservices.com/publickeys] is handled by [moe.yushi.authlibinjector.httpd.PublickeysFilter@1b643d5b]
+[authlib-injector] [DEBUG] Request to [/https/api.minecraftservices.com/player/attributes] is handled by [moe.yushi.authlibinjector.httpd.AntiFeaturesFilter@28ba591b]
+[authlib-injector] [DEBUG] Query profile of [68af5072-46a5-387f-ac5e-a6b3c47d6c3f] at [http://localhost:25555/yggdrasil/], response: {"id":"68af507246a5387fac5ea6b3c47d6c3f","name":"Ashy","properties":[{"name":"uploadableTextures","value":"skin,cape"},{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE3ODc5MDk3MTczNjcsInByb2ZpbGVJZCI6IjY4YWY1MDcyLTQ2YTUtMzg3Zi1hYzVlLWE2YjNjNDdkNmMzZiIsInByb2ZpbGVOYW1lIjoiQXNoeSIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL2xvY2FsaG9zdDoyNTU1NS95Z2dkcmFzaWwvdGV4dHVyZXM/aHJlZj0iLCJtZXRhZGF0YSI6e319fX0=","signature":"gfKTlzZhSbI+Cd8KBN0ZEIiPcXmcUWUXT0yt1IXxUq1T4dsSGVZ0P2PnWE5RstmMA9PJypP/wsGuTGJy9RtjeAqb7NipryUEj7BRY5h8hd9v5gYfQ9/V0r6rC5CEs6iWCvjLVSuVklwpcmXgCIDCICaE+Wnd9nl/xqFIvJ9F+8nJAHgGrWWxK8d51xXAJD3xbtEnbUPY5tTU1dxa8XQGiZdhyCC4fMzq5ftupik0MTvTzterb6O9SOVD+K6iVLhsTlDF+aH0x0ftBW6utRpVuWmIJlORUyb6je2WJDmFTTEs3G0VxMEn1D/5JxZDUSoc+W9xjlyFIQIJM4zuKJjeZW2r297WR7IZQWD9jXrgjxgXG7RpMSiIeC76gnwsOFQCD8aqK7soITgljU3gIM3qQGZ95lIuZtUdCYENIUAnZsEMi/GhA4Fl0pc9g1Rf+pzX3zrG4h4rJVXmuWV+1IuD1rOxzV/aQV0lPM5P6YH7KTT6VndBx8rgv/7JAjI5wRNusuU3yvmf4YVAIZFnu/rgbr1iw0wND8oz0nVtL8DJ+/1mRbKEB8bdGQDYKbQmWcAfNlSArFxr0kWbWkiz7p7trj7YmWfw32ekmAHVqkYPtoqk7HX8SjwTOUT0OP9mMXZKJuWbcMgLzTp719zUD/bRXArC9F3kPTReP+6E8Dr+1N8="}]}
+[authlib-injector] [DEBUG] Request to [/https/sessionserver.mojang.com/session/minecraft/profile/68af507246a5387fac5ea6b3c47d6c3f] is handled by [moe.yushi.authlibinjector.httpd.QueryProfileFilter@16933880]
+[authlib-injector] [INFO] Transformed [net.minecraft.server.network.ServerLoginPacketListenerImpl] with [Username Character Check Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.TextureUrlChecker] with [Texture Whitelist Transformer]
+[authlib-injector] [DEBUG] Adding callback metafactory
+[authlib-injector] [DEBUG] Checking texture URL whitelist: http://localhost:25555/yggdrasil/textures?href=
+[authlib-injector] [DEBUG] Checking texture URL whitelist: http://localhost:25555/yggdrasil/textures?href=
+[authlib-injector] [DEBUG] Checking texture URL whitelist: http://localhost:25555/yggdrasil/textures?href=
+[authlib-injector] [DEBUG] Checking texture URL whitelist: http://localhost:25555/yggdrasil/textures?href=
+[authlib-injector] [DEBUG] Checking texture URL whitelist: http://localhost:25555/yggdrasil/textures?href=
+[authlib-injector] [DEBUG] Checking texture URL whitelist: http://localhost:25555/yggdrasil/textures?href=

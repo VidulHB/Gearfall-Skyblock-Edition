@@ -1,0 +1,29 @@
+{
+  "activationTicks": 200,
+  "ventPairs": [
+    {
+      "dormant": "create_resource_vents:dormant_asurine_vent",
+      "active": "create_resource_vents:active_asurine_vent"
+    },
+    {
+      "dormant": "create_resource_vents:dormant_crimsite_vent",
+      "active": "create_resource_vents:active_crimsite_vent"
+    },
+    {
+      "dormant": "create_resource_vents:dormant_ochrum_vent",
+      "active": "create_resource_vents:active_ochrum_vent"
+    },
+    {
+      "dormant": "create_resource_vents:dormant_scorchia_vent",
+      "active": "create_resource_vents:active_scorchia_vent"
+    },
+    {
+      "dormant": "create_resource_vents:dormant_scoria_vent",
+      "active": "create_resource_vents:active_scoria_vent"
+    },
+    {
+      "dormant": "create_resource_vents:dormant_veridium_vent",
+      "active": "create_resource_vents:active_veridium_vent"
+    }
+  ]
+}
